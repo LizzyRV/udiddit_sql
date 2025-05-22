@@ -41,7 +41,7 @@ See [`udiddit_schema.sql`](./udiddit_schema.sql)
 
 ---
 
-## 🔄 Part III: Data Migration
+## Part III: Data Migration
 
 The data from the original tables (`bad_posts`, `bad_comments`) was transformed and inserted into the new schema using advanced SQL features such as:
 
